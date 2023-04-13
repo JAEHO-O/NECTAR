@@ -83,6 +83,14 @@
  <li>Apache Tomcat 9</li>
 
  <li>MySQL 8.0</li>
+ 
+ 
+### 팀원 Contributors
+
+
+ <li><a href="">오재호</a></li>
+ 
+ <li><a href="">홍혜빈</a></li>
 
 
 ### 라이센스 License
@@ -90,12 +98,7 @@
 우리의 프로젝트는 MIT License 를 따르고 있습니다.
 
 
-### 팀원 Contributors
 
-
- <li><a href="">오재호</a></li>
- 
- <li><a href="">홍혜빈</a></li>
  
  # 💡 연락 Contact
  
