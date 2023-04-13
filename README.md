@@ -92,16 +92,17 @@
  <li>Apache Tomcat </li>
 
 <li>MySQL </li>
-
+c
 
 
 # 💡 팀원 Contributors
 
+### 라이센스 License
+
+우리의 프로젝트는 MIT License 를 따르고 있습니다.
 
 
-### 오재호
+#### 오재호
 
-### 정민경
-
-### 홍혜빈
+#### 홍혜빈
 
