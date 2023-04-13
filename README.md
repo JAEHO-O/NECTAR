@@ -55,29 +55,20 @@
 
 <img src="https://user-images.githubusercontent.com/121703704/231819646-b84efc77-bdaa-4dc3-a756-3ca4676c909b.png" width=800px>
 
-
+이 프로젝트의 DB는 코드 사전을 포함한 15개의 테이블로 이루어져 있습니다.
 
 ### 특징적 기술 Key Features
 
 
-
- <li>로그인 및 회원가입 - Google , Kakao oAuth API 사용 </li>
-
+ <li>Google, Kakao OAuth 2.0 - 카카오,네이버 소셜 로그인</li>
+ <li>Google Maps Places API - 위치 검색 기반 매장 조회</li>
+ <li>Kakao Pay API - 핫딜 구매 시 카카오 페이 결제</li>
  <li>Spring Security - 일반회원, 사업자회원, 관리자 페이지 구분</li>
-
-<li>페이징 기능 - 맛집 리스트 검색 결과 출력</li>
-
- <li>리뷰 기능- 맛집 상세 페이지에서 리뷰 등록, 수정, 삭제 가능</li>
-
- <li>좋아요, 내가 남긴 리뷰 보기 - 사용자에 선호에 따라 맛집을 저장, 마이페이지에서 확인/삭제</li>
-
+ <li>페이징 - 맛집 리스트 검색 결과 출력 </li>
+ <li>리뷰- 맛집 상세 페이지에서 리뷰 등록, 수정, 삭제 가능</li>
+ <li>좋아요 - 사용자에 선호에 따라 맛집을 저장, 마이페이지에서 확인/삭제</li>
  <li>인기검색어 - 사용자들이 검색한 키워드 검색 결과를 토대로 상위 5개의 검색어를 홈 화면에 노출 </li>
-
  <li>최근 클릭한 가게 - 사용자가 클릭했던 맛집들을 최신순으로 다섯개 화면에 노출 </li>
-
- <li>결제 - Kakao Pay API 를 사용하여 핫딜 구매 시 카카오 페이 결제 서비스 제공 </li>
-
- <li>지도 - Kakao Map API 를 사용하여 현재 사용자 위치와 DB에 저장된 매장의 위치를 카카오 맵상에 표시 </li>
 
 
 
@@ -89,9 +80,9 @@
 
  <li>Visual Studio Code</li>
 
- <li>Apache Tomcat </li>
+ <li>Apache Tomcat 9</li>
 
-<li>MySQL </li>
+ <li>MySQL 8.0</li>
 
 ### 라이센스 License
 
